@@ -1,4 +1,12 @@
 # Flask_market
 
-flask --app market --debug run
+activate environment:
+```
+env\Scripts\activate
+```
+
+Run app:
+```
+python run.py
+```
 
