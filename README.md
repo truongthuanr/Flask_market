@@ -17,22 +17,22 @@ Run app:
 ```
 python run.py
 ```
-![image](img\01.png)
+![image](.\img\01.png)
 
 * Application will be runing on: http://127.0.0.1:5000
 
 ## Homepage
-![image](img\02.png)
+![image](.\img\02.png?raw=true)
 
 ## Log-in page
-![image](img\03.png)
+![image](.\img\03.png)
 
 ## Market page 
-![image](img\04.png)
+![image](.\img\04.png)
 
 
 ## Database
 Using SQLite for data managerment:
 
 DB instance is located at ` \instance\market.db `
-![image](img\05.png)
+![image](.\img\05.png)
